@@ -1,1 +1,2 @@
-Second shell basics readme
+#!/bin/bash
+The script prints the current path
